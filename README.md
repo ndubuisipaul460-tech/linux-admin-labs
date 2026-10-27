@@ -50,5 +50,5 @@ All scripts use `set -euo pipefail`, validate their arguments and return meaning
 ## Related Repositories
 
 - [it-operations-labs](https://github.com/ndubuisipaul460-tech/it-operations-labs): monitoring scripts, ITIL runbooks and templates
-- [network-engineer-labs](https://github.com/ndubuisipaul460-tech/network-engineer-labs): Packet Tracer labs and Palo Alto notes
+- [network-engineer-labs](https://github.com/ndubuisipaul460-tech/network-engineer-labs): Packet Tracer labs and Cisco ASA notes
 - [wireshark-labs](https://github.com/ndubuisipaul460-tech/wireshark-labs): packet analysis labs
